@@ -40,7 +40,7 @@ body {
 }
 
 .card-thumbnail img {
-  width: 100%;
+  max-width: 100%;
   border-radius: 10px;
 }
 
@@ -66,12 +66,12 @@ body {
 .card-date,
 .card-avatar p {
   color: #121212;
-  font-size: 14px;
+  font-size: 0.875rem;
 }
 
 .card-description {
   color: #6b6b6b;
-  font-size: 16px;
+  font-size: 1rem;
 }
 
 .card-avatar {
