@@ -25,8 +25,10 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screenshot.jpeg)
-![](./Screenshot_active.jpeg)
+ ![](./Screenshot.jpeg)
+ 
+ **Hover State**
+ ![](./Screenshot_active.jpeg)
 
 ### Links
 
