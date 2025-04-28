@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-css-flexbox-wDaJVguO-A)
-- Live Site URL: [Add live site URL here](https://jesnetwd.github.io/Frontend-Mentor-Blog-preview-card/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-using-css-flexbox-wDaJVguO-A)
+- Live Site URL: [Live site URL](https://jesnetwd.github.io/Frontend-Mentor-Blog-preview-card/)
 
 ## My process
 
