@@ -18,7 +18,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  row-gap: 10px;
+  row-gap: 20px;
   background-color: var(--Yellow);
 }
 
@@ -64,13 +64,10 @@ body {
   background-color: var(--Yellow);
   border-radius: 4px;
   padding: 4px 12px;
-  letter-spacing: 0;
 }
 
 .card-body h1 {
-  color: var(--Gray950);
   font-size: 1.5em;
-  font-weight: 800;
 }
 
 .dark {
@@ -98,7 +95,6 @@ body {
 }
 
 .attribution {
-  margin: 8px;
   font-size: 11px;
   text-align: center;
 }
