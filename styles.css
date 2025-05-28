@@ -51,14 +51,6 @@ body {
   row-gap: 12px;
 }
 
-.small {
-  font-size: 14px;
-}
-
-.bold {
-  font-weight: 800;
-}
-
 .card-tag {
   width: 84px;
   background-color: var(--Yellow);
@@ -70,12 +62,20 @@ body {
   font-size: 1.5em;
 }
 
+.card-description {
+  color: var(--Gray500);
+}
+
 .dark {
   color: var(--Gray950);
 }
 
-.card-description {
-  color: var(--Gray500);
+.small {
+  font-size: 14px;
+}
+
+.bold {
+  font-weight: 800;
 }
 
 .card-avatar {
@@ -89,7 +89,8 @@ body {
   height: 2em;
 }
 
-.card h1:hover {
+.card h1:hover,
+.card h1:focus {
   color: var(--Yellow);
   cursor: pointer;
 }
