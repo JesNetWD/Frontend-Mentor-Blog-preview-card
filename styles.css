@@ -105,3 +105,10 @@ body {
 .attribution a {
   color: #3e52a3;
 }
+
+@media only screen and (max-width: 400px) {
+  .card {
+    margin: 0.5em;
+    min-width: 200px;
+  }
+}
